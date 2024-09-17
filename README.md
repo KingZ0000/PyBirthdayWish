@@ -20,7 +20,7 @@
 </a>
 <img src="image/PyBirthdayWish.gif" align="center" alt="PyBirthdayWish GIF" />
 <h2 align="center">Wish your loved one in a pythonic way</h2>
-<p align="center">
+<p align="center"Priti>
 <a href="https://youtu.be/Lpj73qkxnqI">
 <img src="https://img.shields.io/youtube/views/Lpj73qkxnqI?style=social" alt="views" />
 </a>
